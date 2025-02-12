@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ali</h1>
 <h3 align="center">A passionate young Full Stack developer who always tries to keep himself up to date.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ali-mallak&label=Profile%20views&color=0e75b6&style=flat" alt="ali-mallak" /> </p>
-
 - 🌱 I’m currently learning **next.js,mui,tailwind and more...**
 
 - 👨‍💻 All of my projects are available at [Currently building](Currently building)
