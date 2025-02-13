@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ali</h1>
+<h1 align="left">Hi 👋, I'm Ali</h1>
 <h3 align="center">A passionate young Full Stack developer who always tries to keep himself up to date.</h3>
 
 - 🌱 I’m currently learning **next.js,mui,tailwind and more...**
